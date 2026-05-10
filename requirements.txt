@@ -1,0 +1,7 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+motor==3.4.0
+python-dotenv==1.0.1
+pydantic==2.6.4
+bcrypt==4.1.2
+PyJWT==2.8.0

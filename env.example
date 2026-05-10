@@ -1,0 +1,10 @@
+MONGO_URL=mongodb+srv://USER:PASSWORD@HOST/iphone_unlock_service
+DB_NAME=iphone_unlock_service
+JWT_SECRET=replace-with-a-long-random-secret
+CORS_ORIGINS=https://yourdomain.com
+USE_LOCAL_DB=false
+NOWPAYMENTS_API_KEY=replace-with-nowpayments-api-key
+FRONTEND_URL=https://yourdomain.com
+ADMIN_SEED_TOKEN=replace-with-one-time-seed-token
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=replace-with-strong-admin-password
